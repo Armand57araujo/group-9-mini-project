@@ -1,1 +1,1 @@
-# group-9-project
+# group-9-mini-project
