@@ -1,1 +1,2 @@
-# group-9-mini-project
+# group-9-project
+Coolest project ever !!
